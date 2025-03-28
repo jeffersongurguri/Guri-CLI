@@ -8,7 +8,7 @@
     {
       "type": "node",
       "request": "launch",
-      "name": "Launch Program - Case Frequencia",
+      "name": "UseCase - Frequencia",
       "skipFiles": [
         "<node_internals>/**"
       ],
