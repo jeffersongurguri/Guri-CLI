@@ -1,0 +1,15 @@
+{
+  "name": "guri",
+  "version": "0.0.1",
+  "description": "testes de implementação de cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jefferson Gurguri <jeffersongurguri@gmai.com>",
+  "license": "ISC",
+  "bin": "bin/guri.bat",
+  "dependencies": {
+    "commander": "^13.1.0"
+  }
+}
